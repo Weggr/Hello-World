@@ -1,1 +1,1 @@
-hello :- write('Hello World /n /n Signé Marc').
+hello :- write('Hello World \n \n Signé Marc').
