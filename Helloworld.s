@@ -1,7 +1,7 @@
 # Hello World en MIPS
 
         .data                        # Déclarations des données utilisées
-coucou:   .asciiz "Hello World!\n";  #Declaration d'une chaine de caracteres asciiz
+coucou:   .asciiz "Hello World!\n"  #Declaration d'une chaine de caracteres asciiz
 
         .text
 
